@@ -13,7 +13,7 @@ O **ZeroUm** é um site inovador que utiliza inteligência artificial para suger
 ## Tecnologias Utilizadas
 
 - **Frontend**: HTML, CSS, JavaScript.
-- **Backend**: Python, utilizando frameworks como Flask ou Django para implementar a lógica de inteligência artificial.
+- **Backend**: Python, utilizando as bibliotecas pandas,numpy e json para implementar a lógica de inteligência artificial.
 - **APIs**: Integração com APIs de serviços de música, como YouTube.
 
 
