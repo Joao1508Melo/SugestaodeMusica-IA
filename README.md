@@ -8,7 +8,7 @@ O **ZeroUm** é um site inovador que utiliza inteligência artificial para suger
 - **Sugestões Personalizadas**: Ao digitar o nome de uma música, o sistema gera uma lista de sugestões com base em análise de dados e similaridade musical.
 - **Interface Intuitiva**: O site possui uma interface fácil de usar, onde os usuários podem rapidamente inserir suas músicas favoritas e receber recomendações.
 - **Integração com APIs de Música**: Utiliza APIs de plataformas de música para acessar um vasto banco de dados de faixas e artistas.
-- **Feedback do Usuário**: Os usuários podem avaliar as sugestões recebidas, ajudando a melhorar a precisão do sistema ao longo do tempo.
+
 
 ## Tecnologias Utilizadas
 
